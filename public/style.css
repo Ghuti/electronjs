@@ -1,26 +1,17 @@
+.btn{
+  width: 25%;
+  height: 90px;
+  text-align: center;
+}
+
 .btn-1 {
-  width: 25%;
-  height: 90px;
   background: #cccccc;
-  text-align: center;
 }
-
 .btn-2 {
-  width: 25%;
-  height: 90px;
   background: #bbcdee;
-  text-align: center;
 }
-
 .btn-3 {
-  width: 25%;
-  height: 90px;
   background: #17b3ff;
-  text-align: center;
-}
-
-.btn-h {
-  height: 100%
 }
 
 .result {
@@ -33,7 +24,6 @@
 
 .result td{
   padding: 15px;
-  font-size: 2rem;
 }
 
 table {
@@ -42,4 +32,16 @@ table {
 
 body {
   background: #000;
+  font-size: 2rem;
+  user-select: none;
+}
+
+.btn-1:hover {
+  background: #aeaeae;
+}
+.btn-2:hover {
+  background: #9daac3;
+}
+.btn-3:hover {
+  background: #1995d2;
 }
