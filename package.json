@@ -1,0 +1,24 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^7.1.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghuti/electronjs.git"
+  },
+  "author": "Ghutilife, Maxime.L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghuti/electronjs/issues"
+  },
+  "homepage": "https://github.com/Ghuti/electronjs#readme",
+  "description": ""
+}
