@@ -1,15 +1,26 @@
 .btn-1 {
   width: 25%;
-  height: 80px;
+  height: 90px;
   background: #cccccc;
   text-align: center;
 }
 
 .btn-2 {
   width: 25%;
-  height: 80px;
+  height: 90px;
   background: #bbcdee;
   text-align: center;
+}
+
+.btn-3 {
+  width: 25%;
+  height: 90px;
+  background: #17b3ff;
+  text-align: center;
+}
+
+.btn-h {
+  height: 100%
 }
 
 .result {
@@ -17,8 +28,18 @@
   height: 80px;
   text-align: right;
 	margin : 0px;
+  background: #fff;
+}
+
+.result td{
+  padding: 15px;
+  font-size: 2rem;
 }
 
 table {
   width: 100%
+}
+
+body {
+  background: #000;
 }
